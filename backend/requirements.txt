@@ -6,6 +6,6 @@ numpy
 orjson
 sse-starlette
 python-multipart
-# transformers
+transformers
 FlagEmbedding
 torch

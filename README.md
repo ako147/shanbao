@@ -13,3 +13,6 @@ source .venv/bin/activate
 uvicorn app:app --reload --port 8000
 
 成功後開啟瀏覽器「http://localhost:8000/」
+
+離開虛擬環境:
+deactivate
